@@ -1,0 +1,1 @@
+JohnTest.zip/TestZip.txt:$pkzip2$1*2*2*0*36*2b*bd9ae072*0*45*8*36*bd9a*2e26*30174680ae9aa21368ee90a848f24308f0361fef834af7d1e585e224b96d483b8cefdd3ea82d23610df6907207552f1011c2c3bc5646*$/pkzip2$:TestZip.txt:JohnTest.zip::JohnTest.zip
